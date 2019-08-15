@@ -1,2 +1,2 @@
-# KDE-Plasma
+# Inspiration
 Plasma Theme
