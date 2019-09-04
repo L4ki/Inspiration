@@ -28,7 +28,7 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="11"
+     inkscape:cx="-2.563559"
      inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -97,15 +97,17 @@
        x="1"
        y="1" />
     <path
-       style="fill:#a1b4ba;fill-opacity:1;stroke:none"
-       d="m 9,4 0,1 0,5 1,0 0,-5 4,0 0,5 1,0 0,-6 z M 5.707031,9.300781 5,10.007812 l 4.292969,4.292969 0.0078,-0.0078 L 12.007812,17 14.707031,14.300781 19,10.007812 18.292969,9.300781 14,13.59375 l -2,2 -2,-2 z"
+       style="color:#7b7c7e;fill:#a1b4ba;fill-opacity:1;stroke:none"
+       d="m 9,4 v 1 5 h 1 V 5 h 4 v 5 h 1 V 4 Z M 5.707031,9.300781 5,10.007812 l 4.292969,4.292969 0.0078,-0.0078 L 12.007812,17 14.707031,14.300781 19,10.007812 18.292969,9.300781 14,13.59375 l -2,2 -2,-2 z"
        id="rect4282"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:#a1b4ba;fill-opacity:1;stroke:none"
+       style="color:#7b7c7e;fill:#00cc99;fill-opacity:1;stroke:none"
        id="path2998"
        d="M 19.125,17 A 7.125,1.9999999 0 0 1 12,19 7.125,1.9999999 0 0 1 4.875,17 7.125,1.9999999 0 0 1 12,15 a 7.125,1.9999999 0 0 1 7.125,2 z"
        transform="translate(0.125,1.9999999)"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

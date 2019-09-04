@@ -27,9 +27,9 @@
      inkscape:window-height="977"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="13.652583"
+     inkscape:cy="3.743811"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -96,19 +96,21 @@
        x="0"
        y="0" />
     <path
-       style="fill:#a1b4ba;fill-opacity:1;stroke:none"
-       d="m 2,3 0,1 0,9.96875 0,1 L 2,20 l 0,1 1,0 18,0 1,0 0,-1 L 22,4 22,3 21,3 3,3 2,3 z M 3,4 21,4 21,20 3,20 3,4 z"
+       style="color:#7b7c7e;fill:#a1b4ba;fill-opacity:1;stroke:none"
+       d="m 2,3 v 1 9.96875 1 V 20 21 h 1 18 1 V 20 4 3 H 21 3 Z M 3,4 H 21 V 20 H 3 Z"
        id="rect8531"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:#a1b4ba;fill-opacity:1;stroke:none"
-       d="m 4,16 0,3 7,0 0,-3 -7,0 z m 9,0 0,3 7,0 0,-3 -7,0 z"
+       style="color:#7b7c7e;fill:#00cc99;fill-opacity:1;stroke:none"
+       d="m 4,16 v 3 h 7 v -3 z m 9,0 v 3 h 7 v -3 z"
        id="rect2995"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="touchpad_disabled"
-     transform="translate(24,0)">
+     transform="translate(24)">
     <rect
        y="0"
        x="0"
@@ -119,12 +121,14 @@
     <path
        class="ColorScheme-Text"
        id="path2996"
-       d="m 2,3 0,1 0,9.96875 0,1 L 2,20 l 0,1 1,0 18,0 1,0 0,-1 L 22,4 22,3 21,3 3,3 2,3 z M 3,4 21,4 21,20 3,20 3,4 z"
-       style="opacity:0.4;fill:#a1b4ba;fill-opacity:1;stroke:none" />
+       d="m 2,3 v 1 9.96875 1 V 20 21 h 1 18 1 V 20 4 3 H 21 3 Z M 3,4 H 21 V 20 H 3 Z"
+       style="color:#7b7c7e;opacity:0.4;fill:#a1b4ba;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
     <path
        class="ColorScheme-Text"
        id="path2998"
-       d="m 4,16 0,3 7,0 0,-3 -7,0 z m 9,0 0,3 7,0 0,-3 -7,0 z"
-       style="opacity:0.4;fill:#a1b4ba;fill-opacity:1;stroke:none" />
+       d="m 4,16 v 3 h 7 v -3 z m 9,0 v 3 h 7 v -3 z"
+       style="color:#7b7c7e;opacity:0.4;fill:#00cc99;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
