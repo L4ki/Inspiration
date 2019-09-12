@@ -16,6 +16,6 @@ Modified Icons: battery.svg, notification.svg, ktorrent.svg, touchpad.svg
 Changelog: 12.09.2019.
 ---------------------
 
-Modified icons:kalarm.svg, input.svg
+Modified icons: kalarm.svg, input.svg
 
-Added widget:arrows.svg
+Added widget: arrows.svg
