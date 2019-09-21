@@ -19,3 +19,8 @@ Changelog: 12.09.2019.
 Modified icons: kalarm.svg, input.svg
 
 Added widget: arrows.svg
+
+Changelog: 21.09.2019.
+---------------------
+
+Modified widget: background.svg
