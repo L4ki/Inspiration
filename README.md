@@ -24,3 +24,9 @@ Changelog: 21.09.2019.
 ---------------------
 
 Modified widget: background.svg
+
+
+Changelog: 01.10.2019.
+---------------------
+
+Corrected icon: media.svg
