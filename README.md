@@ -30,3 +30,8 @@ Changelog: 01.10.2019.
 ---------------------
 
 Corrected icon: media.svg
+
+Changelog: 11.10.2019.
+----------------------
+
+Widget correction: bar_meter_vertical.svg, tasks.svg
