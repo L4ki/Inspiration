@@ -203,9 +203,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="15.204096"
-     inkscape:cy="16.932346"
+     inkscape:zoom="11.313709"
+     inkscape:cx="28.345197"
+     inkscape:cy="19.31899"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -275,7 +275,7 @@
        inkscape:label="#hover-center"
        transform="matrix(1,0,0,0.9995709,327.49108,704.83887)">
       <rect
-         style="opacity:0.01;fill:#303748;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.6;fill:#303748;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
          id="rect2268"
          width="5.0000095"
          y="-26"
@@ -329,7 +329,7 @@
       </g>
       <rect
          inkscape:label=""
-         style="opacity:1;fill:#442178;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#3b206c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
          id="j"
          width="5"
          y="-37"
