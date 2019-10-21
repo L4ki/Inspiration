@@ -35,3 +35,8 @@ Changelog: 11.10.2019.
 ----------------------
 
 Widget correction: bar_meter_vertical.svg, tasks.svg
+
+Changelog: 21.10.2019.
+----------------------
+
+Added widgets:action-overlays.svg, listitem.svg
