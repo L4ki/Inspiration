@@ -23,12 +23,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
      id="namedview78"
      showgrid="false"
      inkscape:zoom="2.9875261"
-     inkscape:cx="84.280806"
+     inkscape:cx="18.674685"
      inkscape:cy="111.33209"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -141,7 +141,8 @@
        fx="1017.2141"
        fy="580.11951"
        r="104"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.66945022)" />
   </defs>
   <g
      transform="translate(-1798.1356,76.7415)"
@@ -164,8 +165,8 @@
      id="ClockFace">
     <circle
        id="path4329-4"
-       style="opacity:0.4;fill:url(#radialGradient896);fill-opacity:1;stroke:none"
-       cx="1017.2141"
+       style="opacity:0.01;fill:url(#radialGradient896);fill-opacity:1;stroke:none"
+       cx="1017.8835"
        cy="580.11951"
        r="104" />
     <g
@@ -184,9 +185,9 @@
       <g
          id="g4245">
         <path
-           d="m 1114.0685,580.01649 a 96.605507,96.605507 0 0 1 -96.6055,96.6055 96.605507,96.605507 0 0 1 -96.6055,-96.6055 96.605507,96.605507 0 0 1 96.6055,-96.60551 96.605507,96.605507 0 0 1 96.6055,96.60551 z"
+           d="m 1114.0685,580.01649 a 96.605507,96.605507 0 0 1 -96.6055,96.6055 96.605507,96.605507 0 0 1 -96.60546,-96.6055 96.605507,96.605507 0 0 1 96.60546,-96.60551 96.605507,96.605507 0 0 1 96.6055,96.60551 z"
            id="path5099"
-           style="opacity:0.15;fill:#00cc99;fill-opacity:1;stroke:none"
+           style="opacity:0.5;fill:#0f1e31;fill-opacity:1;stroke:none"
            inkscape:connector-curvature="0" />
         <g
            transform="translate(-0.50849973,-0.41219339)"
@@ -248,7 +249,7 @@
            transform="matrix(0,1,-1,0,0,0)" />
         <path
            transform="translate(-238.40858,197.28733)"
-           style="fill:none;stroke:#001c3c;stroke-opacity:1"
+           style="fill:none;stroke:#006be2;stroke-opacity:1;opacity:0.01"
            id="path5627"
            d="m 1352.4771,382.72916 a 96.605507,96.605507 0 0 1 -96.6055,96.6055 96.605507,96.605507 0 0 1 -96.6055,-96.6055 96.605507,96.605507 0 0 1 96.6055,-96.60551 96.605507,96.605507 0 0 1 96.6055,96.60551 z" />
         <g

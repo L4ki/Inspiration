@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
@@ -22,13 +23,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="33.648355"
-     inkscape:cy="7.2711864"
+     inkscape:cx="15.377169"
+     inkscape:cy="18.457627"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,6 +48,18 @@
   </metadata>
   <defs
      id="defs5">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient840">
+      <stop
+         style="stop-color:#007c5d;stop-opacity:1"
+         offset="0"
+         id="stop836" />
+      <stop
+         style="stop-color:#3771c8;stop-opacity:1"
+         offset="1"
+         id="stop838" />
+    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -81,6 +94,60 @@
         color:#2B74C7;
       }
 </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient842"
+       x1="388.65479"
+       y1="536.05835"
+       x2="412.4881"
+       y2="521.39172"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient850"
+       x1="250.83331"
+       y1="1053.8622"
+       x2="269.16663"
+       y2="1041.9456"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient858"
+       x1="388.57144"
+       y1="535.4646"
+       x2="412.57141"
+       y2="522.13135"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient866"
+       x1="250.66666"
+       y1="1053.6956"
+       x2="269.33334"
+       y2="1041.6956"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient874"
+       x1="389.57404"
+       y1="536.97894"
+       x2="411.58957"
+       y2="522.30194"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient884"
+       gradientUnits="userSpaceOnUse"
+       x1="252.81615"
+       y1="1052.0288"
+       x2="267.48276"
+       y2="1042.8622" />
   </defs>
   <g
      id="22-22-computer"
@@ -98,7 +165,7 @@
        d="m 393.90479,542.13129 13.33334,0 0,1.33335 -13.33334,0 z m 4,-2.66666 5.33332,0 0,2.66664 -5.33332,0 z m -10.66667,-18.66662 0,18.6666 26.66663,0 0,-18.6666 z m 1.33333,1.33333 23.99997,0 0,13.33328 -23.99997,0 z"
        class="ColorScheme-Text" />
     <rect
-       style="opacity:0.6;fill:#00cc99;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:url(#linearGradient858);fill-opacity:1;stroke:none"
        id="rect7240"
        width="23.999973"
        height="13.333305"
@@ -128,7 +195,7 @@
        height="12.000219"
        width="18.666662"
        id="rect7300"
-       style="opacity:0.6;fill:#00cc99;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:url(#linearGradient866);fill-opacity:1;stroke:none" />
   </g>
   <g
      transform="matrix(1.09091,0,0,1.09091,-420.9874,-597.79142)"
@@ -152,7 +219,7 @@
        height="14.666632"
        width="23.833321"
        id="rect3022"
-       style="opacity:0.6;fill:#00cc99;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:url(#linearGradient842);fill-opacity:1;stroke:none" />
   </g>
   <g
      id="computer-laptop"
@@ -170,7 +237,7 @@
        id="path3028"
        class="ColorScheme-Text" />
     <rect
-       style="opacity:0.6;fill:#00cc99;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:url(#linearGradient850);fill-opacity:1;stroke:none"
        id="rect3030"
        width="18.333315"
        height="11.916634"
@@ -194,7 +261,7 @@
        d="m 393.2433,540.64039 14.67701,0 0,1.84243 -14.67701,0 z m 4.66149,-1.82681 5.33332,0 0,1.82679 -5.33332,0 z m -10.16666,-18.33855 0,18.33853 25.66664,0 0,-18.33853 z m 1.83591,1.82689 22.01553,10e-6 0,12.84238 -22.01553,0 z"
        class="ColorScheme-Text" />
     <rect
-       style="opacity:0.6;fill:#00cc99;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:url(#linearGradient874);fill-opacity:1;stroke:none"
        id="rect3038"
        width="22.015543"
        height="14.677011"
@@ -224,6 +291,6 @@
        height="9.1666412"
        width="14.666613"
        id="rect3046"
-       style="opacity:0.6;fill:#00cc99;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:url(#linearGradient884);fill-opacity:1;stroke:none" />
   </g>
 </svg>

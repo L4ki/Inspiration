@@ -22,12 +22,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="11"
+     inkscape:cx="-5.7330506"
      inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -96,7 +96,7 @@
        id="g820"
        style="fill:#ff557f;fill-opacity:1">
       <path
-         style="fill:#ff557f;fill-opacity:1;stroke:none"
+         style="fill:#007c5d;fill-opacity:1;stroke:none"
          d="m 32.000001,999.02885 -6.604158,14.04175 -14.729154,2.2498 10.666656,10.9375 -2.520849,15.4375 13.187505,-7.2915 13.187505,7.2915 -2.52085,-15.4375 10.666655,-10.9375 -14.729153,-2.2498 -6.604157,-14.04175 z"
          id="path4114-4"
          class="ColorScheme-Text" />
