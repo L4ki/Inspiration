@@ -13,8 +13,8 @@ Color=112,111,110
 ColorAmount=-0.9
 ColorEffect=0
 ContrastAmount=0
-ContrastEffect=1
-Enable=true
+ContrastEffect=0
+Enable=false
 IntensityAmount=0
 IntensityEffect=0
 
@@ -33,8 +33,8 @@ ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
 [Colors:Complementary]
-BackgroundAlternate=25,62,90
-BackgroundNormal=19,46,67
+BackgroundAlternate=15,30,49
+BackgroundNormal=15,30,49
 DecorationFocus=0,124,93
 DecorationHover=55,113,200
 ForegroundInactive=163,183,188
@@ -43,8 +43,8 @@ ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
 [Colors:Selection]
-BackgroundAlternate=55,113,200
-BackgroundNormal=0,130,97
+BackgroundAlternate=0,124,93
+BackgroundNormal=0,124,93
 DecorationFocus=0,124,93
 DecorationHover=55,113,200
 ForegroundActive=255,186,186
@@ -57,8 +57,8 @@ ForegroundPositive=193,193,193
 ForegroundVisited=219,219,255
 
 [Colors:Tooltip]
-BackgroundAlternate=0,124,93
-BackgroundNormal=17,35,58
+BackgroundAlternate=15,30,49
+BackgroundNormal=15,30,49
 DecorationFocus=0,124,93
 DecorationHover=55,113,200
 ForegroundActive=161,180,186
@@ -85,7 +85,7 @@ ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
 [Colors:Window]
-BackgroundAlternate=240,240,240
+BackgroundAlternate=15,30,49
 BackgroundNormal=15,30,49
 DecorationFocus=0,124,93
 DecorationHover=55,113,200
@@ -99,17 +99,17 @@ ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
 [General]
-ColorScheme=KDE-Plasma
-Name=KDE-Plasma
+ColorScheme=Inspiration
+Name=Inspiration
 shadeSortColumn=true
 
 [KDE]
 contrast=4
 
 [WM]
-activeBackground=0,130,97
+activeBackground=15,30,49
 activeBlend=15,30,49
 activeForeground=161,180,186
-inactiveBackground=147,147,147
-inactiveBlend=161,180,186
+inactiveBackground=15,30,49
+inactiveBlend=15,30,49
 inactiveForeground=161,180,186
